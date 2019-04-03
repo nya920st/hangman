@@ -34,3 +34,5 @@ def hangman(word):
     if not win:
         print("\n".join(stages[0:wrong+1]))
         print("you lose.")
+
+    print("aaa")
